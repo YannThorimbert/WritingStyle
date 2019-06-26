@@ -5,6 +5,8 @@ import parsing
 class Document(object):
     def __init__(self, filename, stopwords="./stopwords/stopwords_francais.txt"):
             """<filename> : path of the corpus"""
+            self.fn = filename
+            self.filename = self.fn
             if filename.endswith(".odt"):
                 new_filename = filename.replace(".odt","_.txt")
                 parsing.write_txt(filename, new_filename)
@@ -82,23 +84,57 @@ def summary_text(fn):
                 float(len(doc.words))/len(doc.all_words))
     print("F-K score:", doc.fk)
     print()
+    return doc
 
-def summary_folder(folder):
+def summary_files(files):
     N = 0
     c = 0
-    docs = 0
-    for fn in os.listdir(folder):
+    docs = []
+    for fn in files:
         if fn.endswith(".odt") or fn.endswith(".txt"):
-            fullpath = os.path.join(folder,fn)
-            summary_text(fullpath)
-            docs += 1
+            doc = summary_text(fn)
+            docs.append(doc)
+        else:
+            print(fn, "is not a valid file.")
+    plot_distributions(docs)
 
+def plot_distribution(words,label,N=1):
+    """If <N> is 1, then occurences are ploted instead of frequency."""
+    try:
+        import matplotlib.pyplot as plt
+    except ImportError:
+        print("Matplotlib not found")
+        return
+    occurences = sorted(words.values(),reverse=True)
+    if N > 1:
+        occurences = [v/N for v in occurences]
+    fit zipf-mandelbrot
+    plt.plot(occurences,"-",label=label)
+    plt.xscale("log")
+    plt.yscale("log")
+    plt.xlabel("Rank")
+    plt.ylabel("Occurences")
+
+def plot_distributions(docs,N=1):
+    """If <N> is 1, then occurences are ploted instead of frequency."""
+    try:
+        import matplotlib.pyplot as plt
+    except ImportError:
+        print("Matplotlib not found")
+        return
+    plt.clf()
+    for d in docs:
+        name = os.path.splitext(os.path.basename(d.fn))[0]
+        plot_distribution(d.words, name, N=len(d.all_words))
+    plt.legend(loc="upper right")
+    plt.show()
 
 
 
 
 if __name__ == '__main__':
-    summary_folder("./")
+##    summary_files(os.listdir("./"))
+    summary_files(["lavague.txt","esther.txt"])
 
 #TODO: richesse du vocabulaire: parametre d'etalement de la loi de puissance des mots
 #TODO: regarder plutot moyenne et variance de word/sentence et syllabe/words collecte sur chaque individu plutot qu'en moyenne
