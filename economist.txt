@@ -1,0 +1,76 @@
+Kenneth Joseph "Ken" Arrow (23 August 1921 – 21 February 2017) was an American economist, mathematician, writer, and political theorist. He was the joint winner of the Nobel Memorial Prize in Economic Sciences with John Hicks in 1972.
+
+In economics, he was a major figure in post-World War II neo-classical economic theory. Many of his former graduate students have gone on to win the Nobel Memorial Prize themselves. His most significant works are his contributions to social choice theory, notably "Arrow's impossibility theorem", and his work on general equilibrium analysis. He has also provided foundational work in many other areas of economics, including endogenous growth theory and the economics of information.
+
+
+Contents
+1	Education and early career
+2	Academic career
+2.1	Arrow's impossibility theorem
+2.2	General equilibrium theory
+2.3	Fundamental theorems of welfare economics
+2.4	Endogenous-growth theory
+2.5	Information economics
+3	Awards and honors
+4	Personal life and death
+5	Publications
+6	Further reading
+7	See also
+8	References
+9	External links
+Education and early career
+Arrow was born on 23 August 1921, in New York City. Arrow's mother, Lilian (Greenberg), was from Iași, Romania, and his father, Harry Arrow, was from nearby Podu Iloaiei.[6][7] The Arrow family were Romanian Jews.[8][9] His family was very supportive of his education.[10] Growing up during the Great Depression, he embraced socialism in his youth. He would later move away from socialism, but his views retained a left-leaning philosophy.[11]
+
+He graduated from Townsend Harris High School and then earned a Bachelor's degree from the City College of New York in 1940 in mathematics, where he was a member of Sigma Phi Epsilon. He attended Columbia University, for his graduate studies. While there, he studied under Harold Hotelling, and was greatly influenced by him.[11] He received a Master's degree in 1941.[12] He served as a weather officer in the United States Army Air Forces from 1942 to 1946.[13]
+
+Academic career
+From 1946 to 1949 Arrow spent his time partly as a graduate student at Columbia and partly as a research associate at the Cowles Commission for Research in Economics at the University of Chicago. During that time he also held the rank of Assistant Professor in Economics at the University of Chicago and worked at the RAND Corporation in California. He left Chicago to take up the post of Acting Assistant Professor of Economics and Statistics at Stanford University. In 1951, he earned his Ph.D. from Columbia.[12] He served in the government on the staff of the Council of Economic Advisers in the 1960s with Robert Solow.[14] In 1968, he left Stanford for the position of Professor of Economics at Harvard University. It was during his tenure there that he received the Nobel Prize in Economics.[12]
+
+Arrow returned to Stanford in 1979 and became the Joan Kenney Professor of Economics and Professor of Operations Research. He retired in 1991. As a Fulbright Distinguished Chair, in 1995 he taught Economics at the University of Siena. He was also a founding member of the Pontifical Academy of Social Sciences and a member of the Science Board of Santa Fe Institute. At various stages in his career he was a Fellow of Churchill College, Cambridge.[12]
+
+Five of his former students have gone on to become Nobel Prize winners. These include Eric Maskin, John Harsanyi, Michael Spence and Roger Myerson.[15] A collection of Arrow's papers is housed at the Rubenstein Library at Duke University.[16]
+
+Arrow's impossibility theorem
+Main article: Arrow's impossibility theorem
+Arrow's monograph Social Choice and Individual Values derives from his 1951 Ph.D. thesis.
+
+If we exclude the possibility of interpersonal comparisons of utility, then the only methods of passing from individual tastes to social preferences which will be satisfactory and which will be defined for a wide range of sets of individual orderings are either imposed or dictatorial.[17]
+
+In what he named the General Impossibility Theorem, he theorized that it was impossible to formulate a social preference ordering that satisfies all of the following conditions:[18]
+
+Nondictatorship: The preferences of an individual should not become the group ranking without considering the preferences of others.
+Individual Sovereignty: each individual should be able to order the choices in any way and indicate ties
+Unanimity: If every individual prefers one choice to another, then the group ranking should do the same
+Freedom From Irrelevant Alternatives: If a choice is removed, then the others' order should not change
+Uniqueness of Group Rank: The method should yield the same result whenever applied to a set of preferences. The group ranking should be transitive.
+The theorem has implications for welfare economics and theories of justice. It was extended by Amartya Sen to the liberal paradox which argued that given a status of "Minimal Liberty" there was no way to obtain Pareto optimality, nor to avoid the problem of social choice of neutral but unequal results.[18]
+
+General equilibrium theory
+Main articles: General equilibrium theory and Arrow–Debreu model
+Work by Arrow and Gérard Debreu and simultaneous work by Lionel McKenzie offered the first rigorous proofs of the existence of a market clearing equilibrium.[19] For this work and his other contributions, Debreu won the 1983 Nobel Prize in Economics.[20] Arrow went on to extend the model and its analysis to include uncertainty, the stability. His contributions to the general equilibrium theory were strongly influenced by Adam Smith's Wealth of Nations.[citation needed] Written in 1776, The Wealth of Nations is an examination of economic growth brought forward by the division of labor, by ensuring interdependence of individuals within society.[21]
+
+In 1974, The American Economic Association published the paper written by Kenneth Arrow, General Economic Equilibrium: Purpose, Analytic Techniques, Collective Choice, where he states:
+
+From the time of Adam Smith's Wealth of Nations in 1776, one recurrent theme of economic analysis has been the remarkable degree of coherence among the vast numbers of individual and seemingly separate decisions about the buying and selling of commodities. In everyday, normal experience, there is something of a balance between the amounts of goods and services that some individuals want to supply and the amounts that other, different individuals want to sell. Would-be buyers ordinarily count correctly on being able to carry out their intentions, and would-be sellers do not ordinarily find themselves producing great amounts of goods that they cannot sell. This experience of balance indeed so widespread that it raises no intellectual disquiet among laymen; they take it so much for granted that they are not supposed to understand the mechanism by which it occurs.[22]
+
+Fundamental theorems of welfare economics
+In 1951, Arrow presented the first and second fundamental theorems of welfare economics and their proofs without requiring differentiability of utility, consumption, or technology, and including corner solutions.[23]
+
+Endogenous-growth theory
+See also: AK model
+Arrow was one of the precursors of endogenous growth theory, which seeks to explain the source of technical change, which is a key driver of economic growth. Until this theory came to prominence, technical change was assumed to occur exogenously – that is, it was assumed to occur outside economic activities, and was outside (exogenous) to common economic models. At the same time there was no economic explanation for why it occurred. Endogenous-growth theory provided standard economic reasons for why firms innovate, leading economists to think of innovation and technical change as determined by economic actors, that is endogenously to economic activities, and thus belong inside the model. Endogenous growth theory started with Paul Romer's 1986 paper,[24] borrowing from Arrow's 1962 "learning-by-doing" model which introduced a mechanism to eliminate diminishing returns in aggregate output.[25] A literature on this theory has developed subsequently to Arrow's work.[26]
+
+Information economics
+In other pioneering research, Arrow investigated the problems caused by asymmetric information in markets. In many transactions, one party (usually the seller) has more information about the product being sold than the other party. Asymmetric information creates incentives for the party with more information to cheat the party with less information; as a result, a number of market structures have developed, including warranties and third party authentication, which enable markets with asymmetric information to function. Arrow analysed this issue for medical care (a 1963 paper entitled "Uncertainty and the Welfare Economics of Medical Care", in the American Economic Review);[27] later researchers investigated many other markets, particularly second-hand assets, online auctions and insurance.
+
+Awards and honors
+Arrow was awarded the John Bates Clark Medal in 1957[28] and was elected a Fellow of the American Academy of Arts and Sciences in 1959.[29] He was the joint winner of the Nobel Memorial Prize in Economics with John Hicks in 1972 and the 1986 recipient of the von Neumann Theory Prize.[12] He was one of the recipients of the 2004 National Medal of Science, the nation's highest scientific honor, presented by President George W. Bush for his contributions to research on the problem of making decisions using imperfect information and his research on bearing risk.[4]
+
+He has received honorary doctorates from the University of Chicago (1967), the University of Vienna (1971) the City University of New York (1972).[12] On 2 June 1995 he received an honorary doctorate from the Faculty of Social Sciences at Uppsala University, Sweden.[30] He was elected a Foreign Member of the Royal Society (ForMemRS) in 2006.[4]
+
+Personal life and death
+Arrow was a brother to the economist Anita Summers, uncle to economist and former Treasury Secretary and Harvard President Larry Summers, and brother-in-law of the late economists Robert Summers and Paul Samuelson.[31] In 1947, he married Selma Schweitzer, graduate in economics at the University of Chicago[32] and psychotherapist, who died in 2015; they had two children: David Michael (b. 1962), an actor,[33] and Andrew Seth (b. 1964).[12]
+
+Arrow was well-known for being a polymath, possessing prodigious knowledge of subjects far removed from economics. On one occasion (recounted by Eric Maskin), in an attempt to artificially best Arrow's knowledge, the junior faculty agreed to closely study the breeding habits of gray whales – a suitably obscure topic – and discuss it in his presence. To their surprise, Arrow actually joined into the conversation.[31][34]
+
+Arrow died in his Palo Alto, California home on 21 February 2017 at the age of 95.[31]
